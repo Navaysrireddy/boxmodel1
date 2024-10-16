@@ -1,0 +1,43 @@
+.container {
+    width: 600px;
+    height: 600px;
+    border-width: 3px;
+    border-style: solid;
+
+}
+.header {
+    height: 200px;
+    border-width: 3px;
+    border-style: solid;
+    margin-top: 9px;
+    margin-left: 9px;
+    margin-right: 9px;
+    margin-bottom: 9px;
+}
+.nav-1,.nav-2{
+    width: 70px;
+    height: 70px;
+    border-width: 3px;
+    border-style: solid;
+    display:inline-block;
+    margin: 9px;
+}
+.nav-1{
+    margin-right: 250px;
+}
+.item{
+    width: 150px;
+    height: 200px;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    margin: 9px;
+
+}
+.footer{
+
+    height: 120px;
+    border-width: 3px;
+    border-right: solid;
+    margin: 9px;
+}
